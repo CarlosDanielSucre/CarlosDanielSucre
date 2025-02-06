@@ -1,12 +1,27 @@
--👋 Hi, I’m @CarlosDanielSucre  
-- 👀 I’m interested in development with JavaScript, Node.js, and React  
-- 🌱 I’m currently learning to build dynamic and scalable web applications  
-- 💞️ I’m looking to collaborate on frontend and backend development projects  
-- 📫 How to reach me: You can email me at [[mail](carlosdanielsucre568@gmail.com)] or find me on LinkedIn [[here](https://br.linkedin.com/in/carlos-daniel-sucre-cordova-509769193)] 
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love going to the beach and enjoy playing baseball and chess.
+# 👋 ¡Hola, soy Carlos Daniel Sucre Cordova!
 
-<!---
-CarlosDanielSucre/CarlosDanielSucre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Desarrollador Full Stack | Apasionado por la tecnología
+
+Soy un **desarrollador Full Stack** con un enfoque sólido en el backend y una gran pasión por la creación de soluciones eficientes y escalables. Mi stack principal incluye:
+
+- 🖥️ **C#** y **Java** para el desarrollo de aplicaciones robustas y de alto rendimiento.
+- 🌐 **JavaScript** y **Node.js** para el backend moderno, APIs REST y microservicios.
+- 🎨 **HTML y CSS** para interfaces web atractivas y responsivas.
+
+## 🔥 ¿Por qué la programación?
+Desde siempre me ha fascinado la capacidad de transformar ideas en productos reales a través del código. Disfruto resolviendo problemas complejos y optimizando sistemas para que sean más eficientes.
+
+## 🛠️ Habilidades
+- Desarrollo backend con **C#, .NET, Java y Node.js**.
+- Creación de interfaces con **HTML, CSS y JavaScript**.
+- Diseño de APIs RESTful y arquitectura de microservicios.
+- Bases de datos relacionales y NoSQL.
+- Control de versiones con **Git y GitHub**.
+
+## 📈 Siempre aprendiendo
+La tecnología avanza rápido, y me encanta mantenerme al día con las mejores prácticas y nuevas herramientas para seguir creciendo como desarrollador.
+
+📫 **¿Quieres colaborar conmigo?** No dudes en contactarme. ¡Estoy abierto a nuevos desafíos y oportunidades!
+
+---
+✨ _Desarrollando el futuro, una línea de código a la vez._
