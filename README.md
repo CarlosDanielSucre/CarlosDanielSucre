@@ -12,7 +12,7 @@ Soy un **desarrollador Full Stack** con un enfoque sólido en el backend y una g
 Desde siempre me ha fascinado la capacidad de transformar ideas en productos reales a través del código. Disfruto resolviendo problemas complejos y optimizando sistemas para que sean más eficientes.
 
 ## 🛠️ Habilidades
-- Desarrollo backend con **C#, .NET, Java y Node.js**.
+- Desarrollo backend con **C#, .NET, Java, PLSQL y Node.js**.
 - Creación de interfaces con **HTML, CSS y JavaScript**.
 - Diseño de APIs RESTful y arquitectura de microservicios.
 - Bases de datos relacionales y NoSQL.
