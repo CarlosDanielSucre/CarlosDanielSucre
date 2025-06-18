@@ -77,18 +77,21 @@ La tecnología avanza rápido, y me encanta mantenerme al día con las mejores p
 
 ### 📈 Estatísticas
 
-<p align="center" >
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CarlosDanielSucre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielSucre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=CarlosDanielSucre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielSucre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      />
+    </td>
+  </tr>
+</table>
