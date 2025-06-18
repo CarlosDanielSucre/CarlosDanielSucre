@@ -29,6 +29,13 @@ La tecnología avanza rápido, y me encanta mantenerme al día con las mejores p
 ---
 
 <p align="left">
+  <!-- Estrelas recebidas (precisa de script para funcionar) -->
+  <a href="https://github.com/CarlosDanielSucre">
+    <img 
+      alt="Estrelas recebidas" 
+      title="Estrelas recebidas em meus repositórios" 
+      src="https://img.shields.io/badge/estrelas-25-55960c?style=for-the-badge&logo=star&logoColor=white&labelColor=488207"/>
+  </a>
   <!-- Estrelas que você deu (ok) -->
   <a href="https://github.com/CarlosDanielSucre?tab=stars">
     <img 
@@ -36,6 +43,7 @@ La tecnología avanza rápido, y me encanta mantenerme al día con las mejores p
       title="Estrelas que eu dei" 
       src="https://custom-icon-badges.demolab.com/github/stars/CarlosDanielSucre?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas%20dadas"/>
   </a>
+  
 
   <!-- Seguidores (ok) -->
   <a href="https://github.com/CarlosDanielSucre?tab=followers">
@@ -43,14 +51,6 @@ La tecnología avanza rápido, y me encanta mantenerme al día con las mejores p
       alt="Seguidores" 
       title="Me siga no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/followers/CarlosDanielSucre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/>
-  </a>
-
-  <!-- Estrelas recebidas (precisa de script para funcionar) -->
-  <a href="https://github.com/CarlosDanielSucre">
-    <img 
-      alt="Estrelas recebidas" 
-      title="Estrelas recebidas em meus repositórios" 
-      src="https://img.shields.io/badge/estrelas-25-55960c?style=for-the-badge&logo=star&logoColor=white"/>
   </a>
 </p>
 
