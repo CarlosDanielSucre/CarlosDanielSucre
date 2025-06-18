@@ -35,12 +35,7 @@ La tecnología avanza rápido, y me encanta mantenerme al día con las mejores p
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/CarlosDanielSucre?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
     </a>
-    <p align="left">
-    <img 
-        alt="Estrelas recebidas" 
-        src="https://img.shields.io/badge/estrelas-0-55960c?style=for-the-badge&logo=star&logoColor=white"
-    />
-</p>
+    
     <a href="https://github.com/CarlosDanielSucre?tab=following">
         <img 
             alt="Seguidores" 
