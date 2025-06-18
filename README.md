@@ -77,7 +77,7 @@ La tecnología avanza rápido, y me encanta mantenerme al día con las mejores p
 
 ### 📈 Estatísticas
 
-<p>
+<p align="center" >
   <img 
     align="left" 
     alt="GitHub Stats" 
