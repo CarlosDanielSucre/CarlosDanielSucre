@@ -9,7 +9,7 @@ Soy un **desarrollador Full Stack** con un enfoque sólido en el backend y una g
 - 🎨 **HTML y CSS** para interfaces web atractivas y responsivas.
 
 ## 🔥 ¿Por qué la programación?
-Desde siempre me ha fascinado la capacidad de transformar ideas en productos reales a través del código. Disfruto resolviendo problemas complejos y optimizando sistemas para que sean más eficientes.
+Siempre me ha fascinado cómo una idea puede convertirse en un producto real gracias al código. Me motiva resolver problemas complejos, mejorar procesos y crear software que realmente haga la diferencia.
 
 ## 🛠️ Habilidades
 - Desarrollo backend con **C#, .NET, Java, PLSQL y Node.js**.
