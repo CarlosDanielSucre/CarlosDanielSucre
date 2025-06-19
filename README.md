@@ -90,7 +90,7 @@ La tecnología avanza rápido, y me encanta mantenerme al día con las mejores p
       <img 
         alt="Top Langs" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielSucre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielSucre&theme=tokyonight&include_all_commits=true&count_private=false&layout=compact"
       />
     </td>
   </tr>
