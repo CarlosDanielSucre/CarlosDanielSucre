@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'  # Todos os dias à meia-noite
   workflow_dispatch:     # Permite execução manual
 
+permissions:
+  contents: write
+
 jobs:
   update-stars:
     runs-on: ubuntu-latest
