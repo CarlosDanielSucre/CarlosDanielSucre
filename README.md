@@ -1,31 +1,44 @@
+<h1 >Hey 👋, I'm Carlos Daniel Sucre Cordova</h1>
 
-<h1 align="center">Hi 👋, I'm Carlos Daniel Sucre Cordova</h1>
-
-<p align="center">
-  🚀 Full Stack Developer | Passionate About Technology
+<p>
+  🚀 Full Stack Developer in training | Focused on backend and learning seriously
 </p>
 
-<p align="center">
-  I'm a Full Stack Developer with a strong focus on backend development and a great passion for creating efficient and scalable solutions.
+<p>
+  I'm on a deep learning journey, diving into Java, SQL, and backend development.  
+  I like to really understand what I'm doing and document everything.  
+  This GitHub is my training ground — a way to stay consistent and track my growth.
 </p>
 
-<p align="center">
-  <b>Main Tech Stack:</b><br>
-  🖥️ C# and Java for robust applications<br>
-  🌐 JavaScript & Node.js for REST APIs and microservices<br>
-  🎨 HTML & CSS for responsive web interfaces
+<p>
+  <b>🧰 Tech Stack I'm working on:</b><br>
+  ☕ Java + Spring Boot → building real backend systems<br>
+  🛢️ Oracle SQL + PL/SQL → queries, procedures, cursors and more<br>
+  🌐 JavaScript + Node.js → APIs and fast backend stuff<br>
+  🧪 JUnit & Mockito → writing clean, tested code
 </p>
 
 ---
 
-### 🌍 Location & Contact
+### 🌎 About Me
 
-- 🌍 Based in Venezuela  
-- ✉️ [carlosdanielsucre568@gmail.com](mailto:carlosdanielsucre568@gmail.com)  
-- 🧠 Currently learning Spring Boot  
-- 🤝 Open to collaborating on Open Source Projects
+- 📍 From Venezuela, living in Brazil  
+- 📚 I study every day following my own plan  
+- 📁 I use GitHub like a public notebook for my learning  
+- 🤝 I love to connect and grow with people who also love clean code  
+- 📬 Reach me: [carlosdanielsucre568@gmail.com](mailto:carlosdanielsucre568@gmail.com)
 
 ---
+
+### 🚧 What I’m Working On Right Now:
+
+- Learning Java step by step — [📁 java-course](https://github.com/CarlosDanielSucre/java-course)  
+- Practicing SQL & PL/SQL — [📁 oracle-sql-lab](https://github.com/CarlosDanielSucre/oracle-sql-lab)  
+- Tracking my weekly progress — [📁 weekly-review](https://github.com/CarlosDanielSucre/weekly-review)
+
+---
+
+> 🎯 *My goal is simple: grow every day, build things that actually work, and be ready for big real-world challenges.*
 
 ### 🛠️ Skills
 
