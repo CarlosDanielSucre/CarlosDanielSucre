@@ -32,10 +32,6 @@
 
 ### 🚧 What I’m Working On Right Now:
 
-- Learning Java step by step — [📁 java-course](https://github.com/CarlosDanielSucre/java-course)  
-- Practicing SQL & PL/SQL — [📁 oracle-sql-lab](https://github.com/CarlosDanielSucre/oracle-sql-lab)  
-- Tracking my weekly progress — [📁 weekly-review](https://github.com/CarlosDanielSucre/weekly-review)
-
 ---
 
 > 🎯 *My goal is simple: grow every day, build things that actually work, and be ready for big real-world challenges.*
