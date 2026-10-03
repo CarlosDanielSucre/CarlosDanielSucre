@@ -1,7 +1,7 @@
-<h1 >Hey 👋, I'm Carlos Daniel Sucre Cordova</h1>
+<h1 >Hey, I'm Carlos</h1>
 
 <p>
-  🚀 Full Stack Developer in training | Focused on backend and learning seriously
+  Software Developer | Focused on backend.
 </p>
 
 <p>
