@@ -1,40 +1,36 @@
-<h1 >Hey, I'm Carlos</h1>
+# Hey, I'm Carlos
 
-<p>
-  Software Developer | Focused on backend.
-</p>
+**Software Developer focused on Java, backend systems, and SQL.**
 
-<p>
-  I'm on a deep learning journey, diving into Java, SQL, and backend development.  
-  I like to really understand what I'm doing and document everything.  
-  This GitHub is my training ground — a way to stay consistent and track my growth.
-</p>
+I'm a Venezuelan developer living in Brazil, working on healthcare software with Java, Oracle SQL, and PL/SQL.
 
-<p>
-  <b>🧰 Tech Stack I'm working on:</b><br>
-  ☕ Java + Spring Boot → building real backend systems<br>
-  🛢️ Oracle SQL + PL/SQL → queries, procedures, cursors and more<br>
-  🌐 JavaScript + Node.js → APIs and fast backend stuff<br>
-  🧪 JUnit & Mockito → writing clean, tested code
-</p>
+My work involves investigating bugs, understanding business rules, and maintaining existing systems. In my personal projects, I explore how software works by building it myself—from backend applications to a Game Boy emulator.
 
----
+## What I'm Building
 
-### 🌎 About Me
+### 🧾 NFS-e Sandbox
+An educational Java project that simulates the lifecycle of a Brazilian electronic service invoice.
 
-- 📍 From Venezuela, living in Brazil  
-- 📚 I study every day following my own plan  
-- 📁 I use GitHub like a public notebook for my learning  
-- 🤝 I love to connect and grow with people who also love clean code  
-- 📬 Reach me: [carlosdanielsucre568@gmail.com](mailto:carlosdanielsucre568@gmail.com)
+The domain currently includes service providers, customers, address validation, ISS tax calculation, and RPS authorization and rejection rules.
 
----
+Next steps include automated tests, persistence, a REST API, XML generation, and simulated municipal processing.
 
-### 🚧 What I’m Working On Right Now:
+**Focus:** domain modeling, business rules, BigDecimal, and state transitions.
 
----
+### 🎮 Java Game Boy Emulator
+[Explore the repository](https://github.com/CarlosDanielSucre/java-gameboy-emulator)
 
-> 🎯 *My goal is simple: grow every day, build things that actually work, and be ready for big real-world challenges.*
+A project to understand how hardware behavior can be represented in software, including CPU instructions, memory mapping, interrupts, graphics, and timing.
+
+**Focus:** Java fundamentals, debugging, and computer architecture.
+
+## Technologies
+
+- **Backend:** Java, Spring Boot, REST APIs
+- **Databases:** Oracle SQL, PL/SQL
+- **Frontend:** JavaScript, TypeScript, Angular, React
+- **Tools:** Git, Linux, Gradle, Maven
+- **Currently practicing:** automated testing with JUnit and Mockito
 
 ### 🛠️ Skills
 
